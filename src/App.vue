@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2021-10-27 11:07:33
- * @LastEditTime: 2021-10-27 17:27:22
+ * @LastEditTime: 2021-10-28 11:06:08
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: \end\src\App.vue
@@ -120,9 +120,9 @@ export default {
 .el-aside {
   text-align: center;
   width: 200px;
-  height: 1000px;
+  height: 900px;
   .el-menu {
-    height: 1000px;
+    height: 900px;
 
     a {
       text-decoration: none;
@@ -132,5 +132,6 @@ export default {
 }
 .el-main{
   padding: 0;
+  background-color: rgb(235, 235, 235);
 }
 </style>
